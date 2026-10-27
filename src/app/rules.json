@@ -1,0 +1,519 @@
+[
+  {
+    "intent": "fee-refund",
+    "keywords": [
+      "refund",
+      "fee refund",
+      "admission fee refund",
+      "refundable",
+      "fee wapis",
+      "fee return"
+    ],
+    "reply": "💰 Admission Fee Refund\n\n• Semester/Trimester system: 7th din tak (classes shuru hone se) 100% refund, 8th se 15th din 50% refund, 16th din ke baad koi refund nahi.\n• Annual system: 15th din tak 100%, 16th se 30th din 50%, 31st din ke baad koi refund nahi.\n• Library Security fee refundable hoti hai.\n\nTip: Admission cancel karna ho to classes shuru hone ke pehle hafte mein hi karein."
+  },
+  {
+    "intent": "fee-challan",
+    "keywords": [
+      "challan",
+      "fee challan",
+      "online challan",
+      "generate challan",
+      "bank challan",
+      "challan form"
+    ],
+    "reply": "🧾 Fee Challan\n\n• Online challan UOS website ke 'Generate Online Challan' section se banta hai (uos.edu.pk/challan).\n• Admission ke waqt paid challan ki scanned copy admission portal par upload karni hoti hai.\n• Madad ke liye Facilitation Center, University of Sargodha se rabta karein.\n\nTip: Challan par apna program aur roll/registration number sahi check kar ke fee jama karayein."
+  },
+  {
+    "intent": "fee",
+    "keywords": [
+      "fee",
+      "fees",
+      "fee structure",
+      "tuition",
+      "tuition fee",
+      "semester fee",
+      "admission fee",
+      "charges",
+      "dues",
+      "kitni fee",
+      "fee kitni"
+    ],
+    "reply": "💳 Fee Structure (Fall 2026)\n\n• Fee program, Regular/Self-Support aur campus ke mutabiq different hoti hai.\n• Aam components: Admission Fee Rs 3,000 (sirf ek baar), Bus Card Fee Rs 2,500 per semester, Library Security Rs 2,000 se 4,000 (refundable), University Registration Fee Rs 5,000 (sirf ek baar, un students ke liye jo pehle UOS mein registered nahi).\n• Misal: kai Regular BS programs (jaise English aur Urdu) mein approx Rs 43,000 pehle semester mein aur Rs 33,000 agle semesters mein. Computing, Engineering, Pharmacy, Law aur Medical programs ki fee alag aur zyada hoti hai.\n• Self-Finance seat par normal fee ke ilawa Rs 1,00,000 salana extra. Foreign/Overseas seats par US$ 1,000 salana extra.\n• Fee agle semesters mein change ho sakti hai, aur government taxes (withholding tax) lagu ho sakte hain.\n\nTip: Apne program ki exact fee official PDF 'Fee Structure Fall 2026' mein dekhein (uos.edu.pk > Admissions > Fee Structure)."
+  },
+  {
+    "intent": "scholarship-honhaar",
+    "keywords": [
+      "honhaar",
+      "honhaar scholarship",
+      "cm honhaar",
+      "cm punjab scholarship",
+      "maryam nawaz scholarship"
+    ],
+    "reply": "🎓 CM Punjab HONHAAR Scholarship\n\n• UOS page par Phase 3 (2025) ka notice hai: BS (Honors) Fall 2025 ke naye students (1st semester ya Semester-V intake) apply kar sakte thay.\n• Poori tuition fee cover hoti hai. Hostel, khana aur transport shamil nahi.\n• Eligibility: Punjab domicile, family ki mahana income Rs 3,50,000 se kam (public sector), merit = Matric 30% + Intermediate 70%. Public sector mein Inter marks kam az kam 70% (Sciences) ya 65% (Arts/Social Sciences).\n• Apply: honhaarscholarship.punjabhec.gov.pk\n\nTip: Naye phase ki dates aur shartein badal sakti hain, isliye UOS Scholarships page aur portal check karte rahein."
+  },
+  {
+    "intent": "scholarship-peef",
+    "keywords": [
+      "peef",
+      "punjab educational endowment fund",
+      "peef scholarship"
+    ],
+    "reply": "🎓 PEEF Scholarship\n\n• Rs 3,000 mahana stipend, saath actual tuition fee aur hostel accommodation.\n• MA/MSc aur MPhil/MS (BS ke baad admit hone walay) students ke liye.\n• Shartein: Punjab domicile, BA/BSc/BS mein kam az kam 60% marks ya CGPA 2.5, walidain ki mahana income Rs 37,000 ya kam, koi aur scholarship nahi.\n• Application direct PEEF ko nahi, apne department ke zariye jama hoti hai.\n\nTip: Form UOS Scholarships page se download kar ke department mein jama karayein."
+  },
+  {
+    "intent": "scholarship-need-based",
+    "keywords": [
+      "need based",
+      "hec need based",
+      "need based scholarship",
+      "hec scholarship",
+      "stipend"
+    ],
+    "reply": "🎓 HEC Need Based Scholarship\n\n• Rs 6,000 mahana stipend aur actual tuition fee, selection se degree khatam hone tak.\n• Sirf regular BS/MA/MSc programs ke enrolled students apply kar sakte hain.\n• Form UOS website se download kar ke apne department ke focal person ko jama karayein. HEC direct application qubool nahi karta.\n\nTip: Documents poore rakhein, adhoori application reject ho sakti hai."
+  },
+  {
+    "intent": "scholarship",
+    "keywords": [
+      "scholarship",
+      "scholarships",
+      "financial aid",
+      "fee waiver",
+      "fee concession",
+      "hafiz e quran fee",
+      "orphan",
+      "bait ul mal",
+      "benazir",
+      "diya pakistan",
+      "scottish scholarship"
+    ],
+    "reply": "🎓 Scholarships & Financial Aid\n\n• UOS ke Scholarships page par categories hain: Kinship Based, Hafiz-e-Quran Fee Waiver, Disabled/Special Students, Orphans/Deserving, Sports Based, Position Holders, University Employees, Shaheed ke bachon ke liye, SOS Children's Village students.\n• Bahar ki scholarships: HEC Need Based, PEEF, CM Punjab HONHAAR, Pakistan Bait-ul-Mal, Benazir, Dia Pakistan, Scottish Scholarship (female students) wagera.\n• Kuch fee exemptions: SOS students aur Shaheed ke bachon ko 100% tuition fee exemption, HEC employees ko 50% tuition exemption.\n• Aam tor par application department ke zariye jama hoti hai.\n\nTip: Kisi khaas scholarship ka naam likhein (jaise 'honhaar', 'peef', 'need based') to us ki tafseel mil jayegi. Poori list: uos.edu.pk/scholarships"
+  },
+  {
+    "intent": "admission-dates",
+    "keywords": [
+      "admission date",
+      "admission dates",
+      "last date",
+      "deadline",
+      "admission schedule",
+      "important dates",
+      "admission kab",
+      "merit list",
+      "merit lists",
+      "master list",
+      "admission open",
+      "when admission"
+    ],
+    "reply": "📅 Admission Dates & Merit Lists\n\n• Har session ka schedule alag hota hai. Current dates admissions.su.edu.pk par 'Important Dates' mein milti hain.\n• Merit lists admissions.su.edu.pk/merits par display hoti hain. Schedule ke mutabiq khud website check karein.\n• Official FAQ ke mutabiq Pharmacy, Medical aur Allied Health Sciences ke admissions aam tor par October/November mein hote hain.\n• Fee ek program se doosre program mein sirf pehli teen merit lists ke schedule ke andar transfer ho sakti hai.\n\nTip: Last date se pehle apply karein aur merit list ki dates note kar lein."
+  },
+  {
+    "intent": "admission-eligibility",
+    "keywords": [
+      "age limit",
+      "eligibility",
+      "eligible",
+      "criteria",
+      "admission criteria",
+      "merit formula",
+      "marks deduction",
+      "aggregate",
+      "hope certificate",
+      "provisional result",
+      "o level",
+      "a level",
+      "ibcc",
+      "equivalence"
+    ],
+    "reply": "✅ Eligibility & Merit\n\n• Age limit: BS programs ke liye 24 saal, MA/MSc ke liye 26 saal. BEd, MBA (Executive), MSc Criminology aur MPhil/PhD par age limit nahi.\n• Apply karne ke liye official result card hona zaroori hai. Provisional result ya hope certificate par apply nahi kar sakte.\n• Pichlay saalon ke passed candidates ke marks deduct hotay hain: 1st Annual previous year / 2nd Annual a year before = 10 marks, us se aage = 20 marks.\n• MS/MPhil ke merit mein work experience count nahi hota.\n• O/A Level students ko IBCC ka equivalence certificate dena hota hai (provisional admission ke baad, pehle semester ke exam se pehle).\n• Barabar merit par umar mein bara candidate preferred hota hai.\n\nTip: Har program ki eligibility aur merit formula admissions.su.edu.pk/programs par hai."
+  },
+  {
+    "intent": "admission-reserved",
+    "keywords": [
+      "reserved seat",
+      "reserved seats",
+      "quota",
+      "sports quota",
+      "disabled quota",
+      "minority seat",
+      "hafiz e quran seat",
+      "armed forces seat",
+      "employee quota"
+    ],
+    "reply": "🪑 Reserved Seats\n\n• UOS mein reserved seats ye hain: SU employees (teaching/non-teaching) ke bachay/spouse, shaheed/war disabled ke bachay, foreign students, tribal areas, FANA/GB nominees, disabled persons, doosre provinces ke students, overseas Pakistanis (NICOP), armed forces, outstanding sports persons, E-Gaming, religious minorities aur Hafiz-e-Quran.\n• Jo reserved seat khali reh jaye woh open merit mein transfer nahi hoti.\n\nTip: Tafseel Admission Regulations mein hai (uos.edu.pk/admission-regulations)."
+  },
+  {
+    "intent": "admission-migration",
+    "keywords": [
+      "migration",
+      "migrate",
+      "university transfer",
+      "transfer university",
+      "migration policy"
+    ],
+    "reply": "🔄 Migration to UOS\n\n• Migration sirf UOS ki Migration Policy ke mutabiq hoti hai, shart ye hai ke aap UOS ki merit list mein aayen aur aap ki university HEC se recognized ho.\n• Pehle semester/year (agar incomplete ho) mein migration allow nahi.\n• Documents: migration application (original), CNIC copy, Intermediate result card, pichle semester ka result/transcript, 2 passport size photos, processing fee ka original challan, course contents.\n• Initial process ke baad aap ki maujooda university ka NOC chahiye hota hai.\n\nTip: Migration ke liye UOS ki official migration policy pehle parh lein."
+  },
+  {
+    "intent": "admission-private",
+    "keywords": [
+      "private admission",
+      "private",
+      "private candidate",
+      "private student",
+      "associate degree",
+      "ada",
+      "adc",
+      "ads",
+      "ma msc private",
+      "private ma"
+    ],
+    "reply": "📝 Private Admissions\n\n• Private programs: Associate Degree (ADA Arts, ADC Commerce, ADS Science) aur MA/MSc.\n• Apply: examinations.su.edu.pk par online.\n• Online apply ke baad ye documents Controller Examinations, SU Sargodha ko post karein: online form ki attested copy, 2 attested photos, result card/transcript ki attested copy, paid challan ki receipt, CNIC ki attested copy.\n• MA/MSc fee: Registration Rs 3,500, Part-1 Rs 4,350, Part-2 Rs 4,650, Composite Rs 8,500.\n• MA/MSc subjects: English, Urdu, Islamic Studies, History, Political Science, Economics, Mathematics, Pakistan Studies, International Relations, Arabic, Punjabi.\n• Attempts: Part-1 mein 6, Part-2 mein 4, Composite mein 4.\n\nTip: Documents kisi Gazetted officer se attest karwana lazmi hai."
+  },
+  {
+    "intent": "admission",
+    "keywords": [
+      "admission",
+      "admissions",
+      "apply",
+      "apply online",
+      "how to apply",
+      "admission process",
+      "online admission",
+      "admission portal",
+      "documents required",
+      "admission test",
+      "entry test",
+      "test"
+    ],
+    "reply": "📝 Admission Information\n\n• Online apply: admissions.su.edu.pk\n• Apply ke waqt koi document post karne ki zarurat nahi. Sirf paid challan ki scanned copy portal par upload karni hoti hai. Original documents admission milne ke baad jama hotay hain.\n• Aap ek form mein 8 programs tak apply kar sakte hain.\n• Admission tests: MS/MPhil/PhD, ADCP, MSc Physical Education (fitness test) aur Institute of Art & Design ke BS programs ka drawing test.\n• Merit list aur program-wise eligibility admissions.su.edu.pk par dekhein.\n• Mazeed madad: UAN 048-111-867-111.\n\nTip: Dates ke liye 'admission date', fee ke liye 'fee', aur eligibility ke liye 'age limit' likh kar poochein."
+  },
+  {
+    "intent": "result",
+    "keywords": [
+      "result",
+      "results",
+      "exam result",
+      "check result",
+      "result card",
+      "gpa",
+      "cgpa",
+      "grading",
+      "grading system",
+      "marksheet",
+      "marks sheet"
+    ],
+    "reply": "📊 Results\n\n• Results UOS website ke Examinations menu mein 'Latest Results' aur 'All Results' par milte hain (uos.edu.pk/all-results).\n• Detailed Marksheet bhi Examinations menu se milti hai.\n• Grading system University Semester Regulations ke clause 15 mein hai.\n• Result mein ghalti ho to department ya Controller of Examinations office se rabta karein.\n\nTip: Result ke baad paper recheck karwana ho to 'rechecking' likh kar poochein."
+  },
+  {
+    "intent": "rechecking",
+    "keywords": [
+      "recheck",
+      "rechecking",
+      "re checking",
+      "re check",
+      "paper recheck",
+      "paper rechecking",
+      "objection"
+    ],
+    "reply": "🔍 Paper Rechecking\n\n• Result declare hone ke 1 mahine ke andar apply karna hota hai.\n• Rechecking form aur challan UOS website se download karein (uos.edu.pk/paper-rechecking).\n• Mukammal documents Controller Examination, University of Sargodha ko post karein, ya Facilitation Center mein original documents ke saath khud jama karayein.\n• Final jawab 15 din mein diya jata hai.\n\nTip: Challan fee jama karwa kar us ki receipt form ke saath lagana na bhoolein."
+  },
+  {
+    "intent": "degree",
+    "keywords": [
+      "degree",
+      "transcript",
+      "duplicate transcript",
+      "verification",
+      "degree verification",
+      "duplicate degree",
+      "provisional certificate",
+      "in lieu",
+      "degree cell",
+      "original degree",
+      "duplicate result card"
+    ],
+    "reply": "🎓 Degree, Transcript & Verification\n\n• Degree, verification aur provisional certificate: online system degreecell.su.edu.pk:88 se apply karein, phir hard copy courier karein.\n• Degree 60 working days mein, verification (degree/transcript/result card) 10 working days mein, In-Lieu/Provisional certificate 10 din mein milta hai.\n• Duplicate degree ke liye FIR ki copy lagani hoti hai.\n• Transcript: biodata form su.edu.pk/forms se download karein ya Facilitation Center mein original documents ke saath jayen. Official transcript ke liye department se clearance form bhi chahiye.\n• Duplicate result card 7 din mein milta hai.\n\nTip: Zyada ijazat ya masla ho to UAN 048-111-867-111 par rabta karein."
+  },
+  {
+    "intent": "facilitation",
+    "keywords": [
+      "facilitation",
+      "facilitation center",
+      "noc",
+      "no objection",
+      "no objection certificate",
+      "english proficiency",
+      "epc",
+      "change of particulars",
+      "name correction",
+      "duplicate registration card",
+      "registration card"
+    ],
+    "reply": "🏢 Facilitation Center Services\n\n• English Proficiency Certificate (EPC): Facilitation Center mein original documents ke saath chand ghanton mein, processing fee Rs 1,000.\n• NOC: urgent NOC usi din, normal 3 working days mein.\n• Duplicate registration card: 7 din mein (Deputy Registrar Registration ko application aur challan).\n• Change of particulars (naam, date of birth wagera): 20 working days, CNIC copy aur Matric/Inter result card ki copy ke saath.\n• Forms: su.edu.pk/forms, challan: su.edu.pk/challan/general.\n\nTip: Original documents saath le kar jayen taake kaam jaldi ho."
+  },
+  {
+    "intent": "exam",
+    "keywords": [
+      "exam",
+      "exams",
+      "examination",
+      "examinations",
+      "controller",
+      "datesheet",
+      "date sheet",
+      "roll number",
+      "roll no",
+      "roll number slip",
+      "roll no slip",
+      "exam form",
+      "exam apply"
+    ],
+    "reply": "📝 Examinations\n\n• Controller of Examinations office date sheets, roll number slips, online exam forms, results aur degrees sambhalta hai.\n• Date Sheets: website ke Examinations > Downloads > Date Sheets mein.\n• Roll No Slips: Examinations menu mein 'Roll No Slips'. Affiliated colleges ke regular students ko slip un ke college se milti hai.\n• Online exam apply: Examinations menu > Apply Online.\n• Controller office: UAN 048-111-867-111 ya 048-9230729 (Phone Directory ke mutabiq).\n\nTip: Result, rechecking ya degree ke bare mein alag se poochein, un ki tafseel alag di gayi hai."
+  },
+  {
+    "intent": "semester-rules",
+    "keywords": [
+      "freeze",
+      "semester freeze",
+      "withdraw",
+      "withdraw course",
+      "drop course",
+      "summer semester",
+      "improve grade",
+      "grade improvement",
+      "repeat course",
+      "cgpa improvement",
+      "maximum duration",
+      "degree duration",
+      "time limit"
+    ],
+    "reply": "📚 Semester Rules\n\n• Course withdraw: semester ke 4 se 6 hafton ke andar, application Chairperson ke office mein. Transcript par 'W' aata hai aur CGPA par asar nahi parta.\n• Semester freeze: final exam se pehle Chairperson ki likhi ijazat se. Semester fee transfer ya refund nahi hoti. Freeze 2 saal se zyada nahi ho sakta.\n• Summer semester: optional, 8 se 9 hafton ka. Fail, attendance ki kami ya grade improvement ke liye.\n• Improvement mein behtar grade transcript mein aata hai, lekin aise students position/scholarship ke liye eligible nahi hotay.\n• Degree ki zyada se zyada muddat: 1-year diploma 2 saal, MA/MSc 4 saal, BS 6 saal, MPhil 4 saal, PhD 8 saal.\n\nTip: Tafseel University Semester Regulations mein hai."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel",
+      "hostels",
+      "accommodation",
+      "dormitory",
+      "boarding",
+      "warden",
+      "mess",
+      "hall council",
+      "hostel fee",
+      "hostel charges",
+      "hostel admission",
+      "hostel facility"
+    ],
+    "reply": "🏠 Hostels\n\n• UOS ke hostels mein 3,500 se zyada students rehte hain.\n• Main Campus Girls: Amna Hall, Ayesha Hall, Fatima Hall, Khadija Hall, Haleema Sadia Hall.\n• Main Campus Boys: Quaid-e-Azam Hall, Iqbal Hall.\n• University College of Agriculture: Girls Zainab Hall, Boys Abu Bakar Hall aur Umar Hall.\n• Allama Iqbal Campus Boys: Liaqat Hall.\n• Hostel charges, rules aur application ka tareeqa Hostel Guide Book (uos.edu.pk/upload/Hostel_Guide_Book_2023.pdf, 2023 edition) aur Hall Council office se confirm karein.\n\nTip: Latest hostel fee aur seats ke liye Hall Council se direct rabta karein, UAN 048-111-867-111."
+  },
+  {
+    "intent": "library-timing",
+    "keywords": [
+      "library timing",
+      "library timings",
+      "library time",
+      "library hours",
+      "library open",
+      "library close",
+      "library kab"
+    ],
+    "reply": "🕘 Library Timings\n\n• Wazir Agha Library: Monday se Friday subah 8:00 se shaam 8:00 baje tak.\n• Saturday: subah 9:00 se shaam 5:00 baje tak.\n• Sunday ka timing library website par nahi diya gaya.\n• Library phone: 048-9230587.\n\nTip: Chuttiyon aur exams ke dinon mein timing badal sakti hai, jane se pehle confirm kar lein."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library",
+      "librarian",
+      "book",
+      "books",
+      "issue book",
+      "borrow",
+      "reading room",
+      "journal",
+      "journals",
+      "e library",
+      "digital library",
+      "opac",
+      "catalog",
+      "catalogue",
+      "research repository",
+      "similarity",
+      "plagiarism",
+      "ebooks",
+      "e books"
+    ],
+    "reply": "📚 Wazir Agha Library\n\n• Main Campus ki central library, 4 manzila building (37,500 sq ft), 700 users ki ek saath gunjaish. 2023 mein renovate hui.\n• Online Catalog (OPAC), HEC Digital Library (taqriban 75,000 electronic resources), UOS Research Repository aur E-Books (ebooks.su.edu.pk) available hain.\n• Services: reference aur research support, information literacy sessions, similarity (plagiarism) checking, book searching help, document delivery.\n• 5 seminar libraries: College of Agriculture, Law, Pharmacy, Engineering & Technology aur Information Management.\n• Library Security (Rs 2,000 se 4,000) fee structure mein shamil hai aur refundable hai.\n• Book issue aur membership ke rules library staff se confirm karein: 048-9230587.\n\nTip: Library ke timing ke liye 'library timing' likh kar poochein."
+  },
+  {
+    "intent": "timing",
+    "keywords": [
+      "timing",
+      "timings",
+      "time table",
+      "timetable",
+      "class timing",
+      "class timings",
+      "office hours",
+      "office timing",
+      "office timings",
+      "working hours",
+      "kab khulta",
+      "kab band",
+      "schedule"
+    ],
+    "reply": "🕘 Timings\n\n• Library: Monday se Friday 8:00 AM se 8:00 PM, Saturday 9:00 AM se 5:00 PM.\n• Class timetable aap ke department ke mutabiq hota hai, apne department se confirm karein.\n• Offices ke exact kaam ke auqat official website par ek jagah nahi diye gaye. Related office ka number Phone Directory (uos.edu.pk/directory) ya UAN 048-111-867-111 par se lein.\n\nTip: Kisi office jane se pehle phone kar ke confirm kar lein."
+  },
+  {
+    "intent": "transport",
+    "keywords": [
+      "transport",
+      "bus",
+      "buses",
+      "bus card",
+      "bus fee",
+      "pick and drop",
+      "pick up",
+      "route",
+      "routes",
+      "shuttle",
+      "transport office"
+    ],
+    "reply": "🚌 Transport\n\n• Bus mein safar ke liye valid Bus Card zaroori hai. Card chadhte waqt dikhana hota hai. Yeh non-refundable aur non-transferable hai, kho jaye to dobara poori fee dena parti hai.\n• Fee structure mein Bus Card Fee Rs 2,500 per semester hai.\n• Bus card form ke saath chahiye: University card ki copy, fee challan, CNIC/Form-B ki copy. Forms: transport.su.edu.pk\n• Shuttle service (haal hi mein shuru): Sargodha Stadium se Jamia Girls High School, Rehman Plaza hotay hue University Gate No. 2 tak, subah do shifts mein, 7:15 AM aur 7:45 AM.\n• Kot Momin aur Jhawarian ke students ke liye bhi buses chalti hain (Sept 2024 se).\n• Transport Officer: 048-9230664 (ext 347).\n\nTip: Routes aur timing badal sakte hain, transport office se confirm kar lein."
+  },
+  {
+    "intent": "dress-code",
+    "keywords": ["dress code", "uniform", "dress", "kapre"],
+    "reply": "👔 Dress Code (Undergraduate)\n\n• Male: grey pant, black belt, white full sleeve collar wali shirt aur black shoes.\n• Female: white shalwar kameez, white dupatta jis par faculty ke mutabiq rangeen border ho, aur black shoes.\n\nTip: Dress code ki tafseel UOS website ke 'Dress Code' page par bhi hai."
+  },
+  {
+    "intent": "student-card",
+    "keywords": ["id card", "student card", "university card", "student id"],
+    "reply": "🪪 Student / University Card\n\n• Student ID card ke liye apne department ke support office se rabta karein.\n• Duplicate registration card ke liye Deputy Registrar (Registration) ko application aur challan dena hota hai, ya Facilitation Center jayen.\n\nTip: CNIC ki copy aur purana card (agar ho) saath rakhein."
+  },
+  {
+    "intent": "international",
+    "keywords": [
+      "international student",
+      "international students",
+      "foreign student",
+      "foreign students",
+      "overseas",
+      "nicop",
+      "abroad"
+    ],
+    "reply": "🌍 International / Overseas Students\n\n• Foreign aur Overseas seats par regular fee ke ilawa US$ 1,000 salana extra lagta hai (Faculty of Pharmacy mein har semester).\n• Foreign students aur NICOP walay overseas Pakistanis ke liye reserved seats hain.\n• UOS website par 'International Students' ke taht Foreign Student Guide mojood hai.\n\nTip: Admission ke liye admissions.su.edu.pk par apply karein."
+  },
+  {
+    "intent": "programs",
+    "keywords": [
+      "program",
+      "programs",
+      "programme",
+      "degree program",
+      "degree programs",
+      "departments",
+      "department",
+      "faculty",
+      "faculties",
+      "which degrees",
+      "kon se programs"
+    ],
+    "reply": "🏛️ Programs & Faculties\n\n• UOS ke 228 degree programs, 41 departments, 4 institutes, 3 campuses aur 5 constituent colleges hain. 200 se zyada affiliated colleges hain.\n• Faculties: Sciences, Agriculture, Medical & Health Sciences, Arts & Humanities, Pharmacy, Social Sciences, Engineering & Technology, aur Computing & Information Technology.\n• Poori list: uos.edu.pk/academic-programs ya Academic Programs PDF.\n• Har program ki eligibility: admissions.su.edu.pk/programs\n\nTip: Kisi program ki fee ya eligibility poochni ho to 'fee' ya 'eligibility' likhein."
+  },
+  {
+    "intent": "about",
+    "keywords": [
+      "about",
+      "about uos",
+      "about university",
+      "history",
+      "founded",
+      "established",
+      "charter",
+      "vice chancellor",
+      "vc",
+      "students number",
+      "how many students"
+    ],
+    "reply": "ℹ️ About University of Sargodha\n\n• UOS Punjab ki ek bari public sector university hai.\n• Safar 1929 mein De'Montmorency College se shuru hua, baad mein Government College bana, aur 2002 mein university ka charter mila.\n• Taqriban 26,000+ enrolled students.\n• Vice Chancellor: Prof. Dr. Tasawar Hayat.\n• Address: University Road, Sargodha, Punjab 40100.\n\nTip: Mazeed tafseel uos.edu.pk/aboutus par hai."
+  },
+  {
+    "intent": "student-services",
+    "keywords": [
+      "counselling",
+      "counseling",
+      "career",
+      "career center",
+      "placement",
+      "e rozgaar",
+      "erozgar",
+      "sports",
+      "club",
+      "clubs",
+      "society",
+      "societies",
+      "co curricular",
+      "women development"
+    ],
+    "reply": "🌟 Student Support Services\n\n• Career Development Center, Counselling Center aur Placement Office students ki rehnumai ke liye hain.\n• Directorate of Sports aur Riaz Shad Co-Curricular Forum (clubs aur societies).\n• E-Rozgaar Center aur Women Development Center.\n• Lincoln Corner (Wazir Agha Library ke ground floor par).\n• Career Development Center ka phone: 048-9230392.\n\nTip: Poori list uos.edu.pk ke 'Students' menu mein hai."
+  },
+  {
+    "intent": "lms",
+    "keywords": [
+      "lms",
+      "learning management system",
+      "student portal",
+      "lms login"
+    ],
+    "reply": "💻 LMS (Learning Management System)\n\n• UOS ka LMS lms.su.edu.pk par hai.\n• Login ya password ke masle ke liye apne department ya Directorate of IT se rabta karein.\n\nTip: Directorate of IT ka IT Manager number Phone Directory mein hai."
+  },
+  {
+    "intent": "contact",
+    "keywords": [
+      "contact",
+      "contact us",
+      "phone",
+      "phone number",
+      "helpline",
+      "email",
+      "address",
+      "location",
+      "map",
+      "directory",
+      "phone directory",
+      "uan",
+      "complaint",
+      "help desk",
+      "kahan hai"
+    ],
+    "reply": "📞 Contact & Support\n\n• UAN: 048-111-867-111\n• Address: University Road, Sargodha, Punjab 40100.\n• General aur admission inquiries ke email addresses UOS website ke footer (Contact Us) mein hain.\n• Phone Directory: uos.edu.pk/directory. Misal: Controller of Examination 048-9230729, Transport Officer 048-9230664 (ext 347), Library 048-9230587, Computer Science Department 048-9230879.\n• UAN par operator se kisi bhi office ki extension (jaise Registrar 474, Director Student Affairs 470) mil jati hai.\n\nTip: Email mein apna naam, roll number aur department zaroor likhein."
+  },
+  {
+    "intent": "thanks",
+    "keywords": [
+      "thanks",
+      "thank",
+      "thank you",
+      "shukriya",
+      "jazakallah",
+      "meherbani",
+      "mehrbani"
+    ],
+    "reply": "Aap ka shukriya! 😊 Koi aur sawal ho to bejhijhak poochein: admission, fee, scholarship, hostel, exams, library, transport ya contact."
+  },
+  {
+    "intent": "greeting",
+    "keywords": [
+      "hi",
+      "hello",
+      "hey",
+      "salam",
+      "assalam",
+      "assalamualaikum",
+      "aoa",
+      "good morning",
+      "good evening"
+    ],
+    "reply": "Wa Alaikum Assalam! 👋 Main UOS Helpdesk Bot hoon. Aap mujh se admission, fee, scholarship, hostel, exams, library, transport, timings ya contact ke bare mein pooch sakte hain."
+  }
+]
